@@ -17,6 +17,8 @@ h2 {
 }
 
 button {
+  background-color: var(--green);
+  color: white;
   padding: 0.25rem 1rem;
   font-family: inherit;
   border: none;
